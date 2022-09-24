@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Ang Yu Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
