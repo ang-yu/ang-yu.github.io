@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in sociology at UW-Madison. I also obatin an Master's degree in statitiscs from the same university. My interest lies at the intersection of sociology and statistics. In particular, I develop tools of causal inference and nonparametric statitiscs and apply them to study SES and racial inequalities in income, education, health, etc.
+
+I am a fourth-year PhD student in sociology at UW-Madison. I also obatined an Master's degree in statitiscs from the same university. I am interested in developing and applying statistically rigorious tools to address social inequalities. In particular, my methodological interests are in causal inference and nonparametric statitiscs. And my substantive interests are in social stratification and mobility, sociology of education, and health disparities. 
 
 You can find my CV [here](https://ang-yu.github.io/files/MyCV.pdf).
 
