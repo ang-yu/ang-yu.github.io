@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : AngYu_soci &twitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ang Yu"
   avatar           : "profile.png"
-  bio              : "PhD Student in Sociology"
+  bio              : "PhD Student in Sociology at the University of Wisconsin-Madison"
   location         : "Madison, WI"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/angyusoci/"
   orcid            : "https://orcid.org/0000-0002-1828-0165"
   pinterest        :
   soundcloud       :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+ # teaching:
+ #   output: true
+ #   permalink: /:collection/:path/
+ # publications:
+ #   output: true
+ #   permalink: /:collection/:path/
+ # portfolio:
+ #   output: true
+ #   permalink: /:collection/:path/
+ # talks:
+ #   output: true
+ #   permalink: /:collection/:path/
 
 
 # Defaults
