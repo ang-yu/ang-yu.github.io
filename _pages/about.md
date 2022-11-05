@@ -13,7 +13,7 @@ I am a fourth-year PhD student in sociology at UW-Madison. I also obtained an Ma
 
 You can find my CV [here](https://ang-yu.github.io/files/MyCV.pdf).
 
-<a rel="me" href="https://sciences.social/@ayu">Mastodon</a>
+My Mastodon is <a rel="me" href="https://sciences.social/@ayu">here</a>.
 
 
 
