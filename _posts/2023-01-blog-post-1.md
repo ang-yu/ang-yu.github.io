@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-Headings are cool
+Horvitz–Thompson and Weighted Least Squares
 ======
 
 $$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
