@@ -1,0 +1,28 @@
+---
+title: 'Odds ratio is margin free, so what?'
+date: 2023-05-11
+permalink: /posts/2023/05/blog-post-1/
+tags:
+  - Methodology
+  - Binary outcome
+  - Odds ratio
+comments: true
+---
+
+(Unfinished)
+
+It has been commonly argued in sociology that odds ratio-as a measure of association between categorical variables-is appealing, because of its ``margin-free" property. The margin-free thing has always baffled me, so I decided to explicate my bafflement here as a sanity check. 
+
+To begin with, here's my understanding of what people are really trying to do when they use a ``margin-free" measure. The idea is to separate absolute/marginal/uniform/across-the-board changes in the marginal distribution from (relative) changes in the disparity/association (e.g., Mare, 1981). Now how does odds ratio achieve this? It does so in terms of cell or joint probabilities.
+
+Consider a simple two-by-two table, where the dependent variable is a binary indicator of college graduation, and the independent variable is a binary SES indicator. Then the odds ratio is defined as 
+
+\begin{equation}
+    \left. \frac{Pr(college=1 | SES=high)}{Pr(college=0 | SES=high)} \middle/ \frac{Pr(college=1 | SES=low)}{Pr(college=0 | SES=low)} \right.,
+\end{equation}
+which can be written as 
+\begin{equation}
+\left. \frac{Pr(college=1, SES=high)}{Pr(college=0, SES=high)} \middle/ \frac{Pr(college=1, SES=low)}{Pr(college=0, SES=low)} \right..
+\end{equation}
+
+So expression (1) is in terms of conditional probabilities, and expression (2) is in terms of joint probabilities (or equivalently, cell probabilities, referring to cells of the 2-by-2 table).
