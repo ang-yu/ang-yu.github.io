@@ -13,4 +13,4 @@ I am a PhD candidate in sociology at UW-Madison. I also obtained a master's degr
 
 You can find my CV [here](https://ang-yu.github.io/files/MyCV.pdf).
 
-New working paper: [Nonparametric Causal Decomposition of Group Disparities](https://ang-yu.github.io/files/Causal_Decomposition_of_Group_Disparities_2023.pdf)
+New working paper: [Nonparametric Causal Decomposition of Group Disparities](https://arxiv.org/abs/2306.16591)
