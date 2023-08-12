@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /files/Causal_Decomposition_of_Group_Disparities_2023.pdf
 ---
 
 
