@@ -7,7 +7,6 @@ redirect_from:
   - /running.html
 ---
 
-Testing
 
 | Date        | Place   | Race                   | Distance        |  Time   | Pace (per mile) | 
 | --------    | ------  | ------------------     | ------          | ------- | --------------- |
