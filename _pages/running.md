@@ -17,3 +17,5 @@ I started running in summer 2022 and have reaped huge physical and psychological
 | Apr 2023    | Madison | Crazylegs Classic      |  8k             | 39:34   | 7:58            |
 
 My next race will be a half marathorn in Milwaukee Lakefront Marathon in October! 
+
+![](/images/madison_mini.png)
