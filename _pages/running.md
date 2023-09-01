@@ -18,4 +18,4 @@ I started running in summer 2022 and have reaped huge physical and psychological
 
 My next race will be a half marathorn in Milwaukee Lakefront Marathon in October! 
 
-![](/images/madison_mini.jpg)
+<img src="/images/madison_mini.jpg" width="200"/>
