@@ -12,7 +12,7 @@ I started running in summer 2022 and have reaped huge physical and psychological
 
 | Date        | Place   | Race                   | Distance        |  Time   | Pace (per mile) | 
 | --------    | ------  | ------------------     | ------          | ------- | --------------- |
-| Sep 2023    | Madison | UW Grad School Dash and Bash      |  5.07 mile             | 36:14   | 7:09            |
+| Sep 2023    | Madison | UW Grad School Dash and Bash      |  5.07 miles             | 36:14   | 7:09            |
 | Aug 2023    | Madison | Madison Mini Marathorn |  Half Marathorn | 1:41:12 | 7:44            | 
 | Apr 2023    | Madison | Crazylegs Classic      |  8k             | 39:34   | 7:58            |
 
