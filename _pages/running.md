@@ -18,5 +18,5 @@ I started running in summer 2022 and have reaped huge physical and psychological
 | Apr 2023    | Madison  | Crazylegs Classic            | 8k                | 39:34   | 7:58            |  4:57
 
 <p align="center">
-<img src="/images/madison_mini.jpg" width="400"/>
+<img src="/images/DSC_7812.jpg" width="350"/>
 </p>
