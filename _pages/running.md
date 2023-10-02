@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I started running in summer 2022 and have reaped huge physical and psychological benefits from it. I've run a couple of races this year, and here are my results. 
+I started running in summer 2022 and have reaped huge physical and psychological benefits from it. I've run some races this year, and here are my results. 
 
 | Date        | Place    | Race                         | Distance          |  Time   | Pace (per mile) | Pace (per km)
 | --------    | ------   | ------------------           | ------            | ------- | --------------- | ---------------
