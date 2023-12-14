@@ -10,6 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in sociology at the University of Wisconsin-Madison and also hold a master's degree in statistics from the same institution. I am interested in developing and applying statistically rigorous tools to address social inequalities. Specifically, my methodological interests lie in causal inference and semiparametric inference. My substantive areas of focus include social stratification and mobility, the sociology of education, and health disparities.
 
-You can find my CV [here](https://ang-yu.github.io/files/MyCV.pdf).
+You can find my academic CV [here](https://ang-yu.github.io/files/MyCV.pdf).
+And [here](https://ang-yu.github.io/files/AngYu_Resume.pdf)'s my industry resume. 
 
 New working paper: [Nonparametric Causal Decomposition of Group Disparities](https://arxiv.org/abs/2306.16591)
