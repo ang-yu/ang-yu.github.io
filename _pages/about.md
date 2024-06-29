@@ -16,4 +16,4 @@ You can find my CV [here](https://ang-yu.github.io/files/MyCV.pdf).
 New working papers: <br>
 [Nonparametric Causal Decomposition of Group Disparities](https://arxiv.org/abs/2306.16591) <br>
 [Counterfactual Slope and Its Applications to Social Stratification](https://arxiv.org/abs/2401.07000) <br>
-[When Do Natural Mediation Effects Differ from Their Randomized Interventional Analogues: Test and Theory](https://github.com/ang-yu/ang-yu.github.io/blob/master/files/Randomized_Interventional_Estimands.pdf)
+<!-- [When Do Natural Mediation Effects Differ from Their Randomized Interventional Analogues: Test and Theory](https://github.com/ang-yu/ang-yu.github.io/blob/master/files/Randomized_Interventional_Estimands.pdf) -->
