@@ -14,6 +14,6 @@ You can find my CV [here](https://ang-yu.github.io/files/MyCV.pdf).
 <!-- And [here](https://ang-yu.github.io/files/AngYu_Resume.pdf)'s my industry resume -->
 
 New working papers: <br>
-<a href="https://arxiv.org/abs/2306.16591" target="_blank">Nonparametric Causal Decomposition of Group Disparities</a>
+<a href="https://arxiv.org/abs/2306.16591" target="_blank">Nonparametric Causal Decomposition of Group Disparities</a> <br>
 [Counterfactual Slope and Its Applications to Social Stratification](https://arxiv.org/abs/2401.07000) <br>
 [When Do Natural Mediation Effects Differ from Their Randomized Interventional Analogues: Test and Theory](https://arxiv.org/abs/2407.02671)
