@@ -13,8 +13,4 @@ I am a Ph.D. candidate in sociology at the University of Wisconsin-Madison and a
 You can find my CV <a href="https://ang-yu.github.io/files/MyCV.pdf" target="_blank">here</a>.
 <!-- And [here](https://ang-yu.github.io/files/AngYu_Resume.pdf)'s my industry resume -->
 
-New working papers: <br>
-<a href="https://arxiv.org/abs/2306.16591" target="_blank">Nonparametric Causal Decomposition of Group Disparities</a> <br><br>
-<a href="https://arxiv.org/abs/2401.07000" target="_blank">Counterfactual Slope and Its Applications to Social Stratification</a> <br><br>
-<a href="https://arxiv.org/abs/2407.02671" target="_blank">When Do Natural Mediation Effects Differ from Their Randomized Interventional Analogues: Test and Theory</a> 
-
+I'm currently looking for a job!
