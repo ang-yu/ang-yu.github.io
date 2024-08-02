@@ -16,31 +16,14 @@ You can find my CV <a href="https://ang-yu.github.io/files/MyCV.pdf" target="_bl
 I'm currently looking for a job!
 
 <h2>News</h2>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Table Without Borders</title>
-    <style>
-        table {
-            border-collapse: collapse;
-        }
-        th, td {
-            border: none;
-        }
-    </style>
-</head>
-<body>
-    <table>
-        <tr>
-            <th>Header 1</th>
-            <th>Header 2</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-            <td>Data 2</td>
-        </tr>
-    </table>
-</body>
-</html>
+<table style="border-collapse: collapse;">
+    <tr>
+        <th style="border: none;">Header 1</th>
+        <th style="border: none;">Header 2</th>
+    </tr>
+    <tr>
+        <td style="border: none;">Data 1</td>
+        <td style="border: none;">Data 2</td>
+    </tr>
+</table>
 
