@@ -14,3 +14,5 @@ You can find my CV <a href="https://ang-yu.github.io/files/MyCV.pdf" target="_bl
 <!-- And [here](https://ang-yu.github.io/files/AngYu_Resume.pdf)'s my industry resume -->
 
 I'm currently looking for a job!
+
+<h1>News</h1>
