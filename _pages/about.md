@@ -16,3 +16,13 @@ You can find my CV <a href="https://ang-yu.github.io/files/MyCV.pdf" target="_bl
 I'm currently looking for a job!
 
 <h2>News</h2>
+    <table border="0">
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+        </tr>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 2</td>
+        </tr>
+    </table>
