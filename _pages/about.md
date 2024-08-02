@@ -21,12 +21,13 @@ I'm currently looking for a job!
         border-collapse: collapse;
         width: 100%;
         border: none;
-        font-size: 16px; /* Adjust the font size as needed */
+        font-size: 17px; /* Adjust the font size as needed */
     }
     .no-border-table td {
         border: none;
         word-wrap: break-word;
         padding: 5px; /* Adjust the padding as needed */
+        vertical-align: top; /* Align text to the top */
     }
 </style>
 <table class="no-border-table">
