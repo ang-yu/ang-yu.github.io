@@ -16,14 +16,10 @@ You can find my CV <a href="https://ang-yu.github.io/files/MyCV.pdf" target="_bl
 I'm currently looking for a job!
 
 <h2>News</h2>
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; width: 100%;">
     <tr>
-        <th style="border: none;">Header 1</th>
-        <th style="border: none;">Header 2</th>
-    </tr>
-    <tr>
-        <td style="border: none;">Data 1</td>
-        <td style="border: none;">Data 2</td>
+        <td style="border: none;">07/29/2024</td>
+        <td style="border: none;">A new version of <a href="https://arxiv.org/abs/2306.16591" target="_blank">Nonparametric Causal Decomposition of Group Disparities</a> has been posted on ArXiv. </td>
     </tr>
 </table>
 
