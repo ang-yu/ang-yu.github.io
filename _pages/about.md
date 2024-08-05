@@ -32,10 +32,18 @@ I'm currently looking for a job!
 </style>
 <table class="no-border-table">
     <tr>
-        <td>07/29/2024</td>
+        <td>08/03/2024</td>
         <td>
-            A new version of <a href="https://arxiv.org/abs/2306.16591" target="_blank">Nonparametric Causal Decomposition of Group Disparities</a> has been posted on ArXiv.
+            I released a blog post <a href="https://ang-yu.github.io/posts/2024/08/blog-post-1/" target="_blank" rel="noopener noreferrer">Logit models don’t make mistakes, people do</a>.
         </td>
     </tr>
+  
+    <tr>
+        <td>07/29/2024</td>
+        <td>
+            A new version of <a href="https://arxiv.org/abs/2306.16591" target="_blank" rel="noopener noreferrer">Nonparametric Causal Decomposition of Group Disparities</a> has been posted on ArXiv.
+        </td>
+    </tr>
+
 </table>
 
