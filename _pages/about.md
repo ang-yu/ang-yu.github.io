@@ -41,7 +41,7 @@ I'm currently on the job market!
       <tr>
         <td>10/24/2024</td>
         <td>
-            At the International Biometric Conference, I will present <a href="https://arxiv.org/abs/2407.02671" target="_blank" rel="noopener noreferrer">Detecting and Understanding the Difference between Natural Mediation Effects and Their Randomized Interventional Analogues.</a>. The presentation will be in the session "Novel Statistical Applications II".
+            At the International Biometric Conference in December, I will present <a href="https://arxiv.org/abs/2407.02671" target="_blank" rel="noopener noreferrer">Detecting and Understanding the Difference between Natural Mediation Effects and Their Randomized Interventional Analogues.</a>. The presentation will be in the session "Novel Statistical Applications II".
 
         </td>
     </tr>
