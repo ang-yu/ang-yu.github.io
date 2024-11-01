@@ -31,6 +31,22 @@ I'm currently on the job market!
     }
 </style>
 <table class="no-border-table">
+      <tr>
+        <td>10/31/2024</td>
+        <td>
+            <a href="https://arxiv.org/abs/2306.16591" target="_blank" rel="noopener noreferrer">Nonparametric Causal Decomposition of Group Disparities</a> has been accepted at Annals of Applied Statistics!
+        </td>
+    </tr>
+
+      <tr>
+        <td>10/24/2024</td>
+        <td>
+            At the International Biometric Conference, I will present <a href="https://arxiv.org/abs/2407.02671" target="_blank" rel="noopener noreferrer">Detecting and Understanding the Difference between Natural Mediation Effects and Their Randomized Interventional Analogues.</a>. The presentation will be in the session "Novel Statistical Applications II".
+
+        </td>
+    </tr>
+    
+  
     <tr>
         <td>08/21/2024</td>
         <td>
