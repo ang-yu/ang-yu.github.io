@@ -31,6 +31,15 @@ I'm currently on the job market!
     }
 </style>
 <table class="no-border-table">
+
+    <tr>
+        <td>11/17/2024</td>
+        <td>
+            <a href="https://www.sciencedirect.com/science/article/pii/S0049089X24000759" target="_blank" rel="noopener noreferrer">My paper with Qi Zheng</a> has been granted the Best Student Paper Award of the East Asia Special Interest Group of Comparative and International
+Education Society.
+        </td>
+    </tr>
+    
       <tr>
         <td>10/31/2024</td>
         <td>
