@@ -67,29 +67,6 @@ I'm currently on the job market!
 
         </td>
     </tr>
-    
-  
-    <tr>
-        <td>08/21/2024</td>
-        <td>
-            A new version of <a href="https://arxiv.org/abs/2401.07000" target="_blank" rel="noopener noreferrer">Counterfactual Slopes and Their Applications in Social Stratification
-</a> has been posted on ArXiv.
-        </td>
-    </tr>
-  
-    <tr>
-        <td>08/03/2024</td>
-        <td>
-            I released a blog post <a href="https://ang-yu.github.io/posts/2024/08/blog-post-1/" target="_blank" rel="noopener noreferrer">Logit models don’t make mistakes, people do</a>.
-        </td>
-    </tr>
-  
-    <tr>
-        <td>07/29/2024</td>
-        <td>
-            A new version of <a href="https://arxiv.org/abs/2306.16591" target="_blank" rel="noopener noreferrer">Nonparametric Causal Decomposition of Group Disparities</a> has been posted on ArXiv.
-        </td>
-    </tr>
 
 </table>
 
