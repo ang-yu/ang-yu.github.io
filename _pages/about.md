@@ -33,6 +33,13 @@ I'm currently on the job market!
 <table class="no-border-table">
 
     <tr>
+        <td>1/30/2025</td>
+        <td>
+            <a href="https://arxiv.org/abs/2401.07000" target="_blank" rel="noopener noreferrer">Counterfactual Slopes and Their Applications in Social Stratification </a> has been accepted at Sociological Methodology!
+        </td>
+    </tr>
+
+    <tr>
         <td>11/17/2024</td>
         <td>
             <a href="https://www.sciencedirect.com/science/article/pii/S0049089X24000759" target="_blank" rel="noopener noreferrer">My paper with Qi Zheng</a> won the Best Student Paper Award of the East Asia Special Interest Group of Comparative and International Education Society.
