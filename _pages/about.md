@@ -13,8 +13,6 @@ I am a Ph.D. candidate in sociology at the University of Wisconsin-Madison and a
 You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 <!-- And [here](https://ang-yu.github.io/files/AngYu_Resume.pdf)'s my industry resume -->
 
-I'm currently on the job market!
-
 <h1>News</h1>
 <style>
     .no-border-table {
