@@ -37,13 +37,6 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
         </td>
     </tr>
 
-        <tr>
-        <td>12/18/2024</td>
-        <td>
-            At the RC28 Spring Conference in March, I will present a new paper tentatively titled "Thinking Through Logit and a Way Forward."
-        </td>
-    </tr>
-
     <tr>
         <td>11/17/2024</td>
         <td>
