@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I recently received my PhD in Sociology from the University of Wisconsin-Madison. Currently, I work as a research scientist on Meta's Demography and Survey Science team.
+
+<! --
 I am a Ph.D. candidate in sociology at the University of Wisconsin-Madison and also hold a master's degree in statistics from the same university. I am interested in developing and applying rigorous and impactful tools in statistics. My methodological interests lie in causal inference, particularly mediation/longitudinal estimands and causal machine learning. My substantive areas include social stratification and mobility, sociology of education, and health disparity.
+-->
 
 You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 <!-- And [here](https://ang-yu.github.io/files/AngYu_Resume.pdf)'s my industry resume -->
