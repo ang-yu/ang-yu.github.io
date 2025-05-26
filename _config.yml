@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ang Yu"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Sociology at the University of Wisconsin-Madison"
-  location         : "Madison, WI"
+  bio              : "Causal inference methodologist"
+  location         : "Menlo Park, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=R8cOrmgAAAAJ&hl=en"
-  email            : ayu33@wisc.edu
+  email            : ang_yu@outlook.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
