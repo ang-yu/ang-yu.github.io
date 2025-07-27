@@ -12,6 +12,7 @@ I started running in summer 2022 and have reaped tremendous physical and psychol
 
 | Date        | Place    | Race                         | Distance          |  Time   | Pace (mile)     | Pace (km)
 | --------    | ------   | ------------------           | ------            | ------- | --------------- | ---------------
+| Jul 2025    | San Francisco  | SF Marathon            | Half Marathon     | 1:40:12 | 7:39            |  4:45
 | Apr 2025    | Madison  | Crazylegs Classic            | 8k                | 37:33   | 7:33            |  4:42
 | Aug 2024    | Madison  | UW Grad School Dash and Bash | 5.07 miles (8.16k)| 37:01   | 7:18            |  4:32
 | Apr 2024    | Madison  | Crazylegs Classic            | 8k                | 38:47   | 7:48            |  4:51
