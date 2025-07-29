@@ -33,6 +33,28 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
 <table class="no-border-table">
 
     <tr>
+        <td>5/12/2025</td>
+        <td>
+            I have been elected as the student representative on the Methods Section council of the American Sociological Association.
+        </td>
+    </tr>
+
+    <tr>
+        <td>5/12/2025</td>
+        <td>
+            I joined Meta as a research scientist on the Demography and Survey Science team.
+        </td>
+    </tr>
+
+
+    <tr>
+        <td>5/1/2025</td>
+        <td>
+            I defended <a href="https://www.proquest.com/openview/f03a01e6cf8f63baa1b4b596eb77f5a2/1?pq-origsite=gscholar&cbl=18750&diss=y" target="_blank" rel="noopener noreferrer">my dissertation </a>! Huge thank you to my advisor, Felix Elwert!  
+        </td>
+    </tr>
+
+    <tr>
         <td>1/30/2025</td>
         <td>
             <a href="https://arxiv.org/abs/2401.07000" target="_blank" rel="noopener noreferrer">Counterfactual Slopes and Their Applications in Social Stratification </a> has been accepted at Sociological Methodology!
