@@ -50,7 +50,7 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
     <tr>
         <td>5/1/2025</td>
         <td>
-            I defended <a href="https://www.proquest.com/openview/f03a01e6cf8f63baa1b4b596eb77f5a2/1?pq-origsite=gscholar&cbl=18750&diss=y" target="_blank" rel="noopener noreferrer">my dissertation </a>! Huge thank you to my advisor, Felix Elwert!  
+            I defended <a href="https://www.proquest.com/openview/f03a01e6cf8f63baa1b4b596eb77f5a2/1?pq-origsite=gscholar&cbl=18750&diss=y" target="_blank" rel="noopener noreferrer">my dissertation</a>! Huge thank you to my advisor, Felix Elwert!  
         </td>
     </tr>
 
