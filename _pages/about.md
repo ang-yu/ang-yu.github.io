@@ -33,7 +33,7 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
 <table class="no-border-table">
 
     <tr>
-        <td>5/12/2025</td>
+        <td>7/28/2025</td>
         <td>
             I have been elected as the student representative on the Methods Section council of the American Sociological Association.
         </td>
