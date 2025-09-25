@@ -33,6 +33,13 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
 <table class="no-border-table">
 
     <tr>
+        <td>9/18/2025</td>
+        <td>
+            I gave a talk to the Casual Causal Group in the Department of Statistics at UC Berkeley. 
+        </td>
+    </tr>
+
+    <tr>
         <td>7/28/2025</td>
         <td>
             I have been elected as the student representative on the council of the Methodology Section of the American Sociological Association.
