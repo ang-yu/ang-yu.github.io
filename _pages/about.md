@@ -64,29 +64,7 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
     <tr>
         <td>1/30/2025</td>
         <td>
-            <a href="https://arxiv.org/abs/2401.07000" target="_blank" rel="noopener noreferrer">Counterfactual Slopes and Their Applications in Social Stratification </a> has been accepted at Sociological Methodology!
-        </td>
-    </tr>
-
-    <tr>
-        <td>11/17/2024</td>
-        <td>
-            <a href="https://www.sciencedirect.com/science/article/pii/S0049089X24000759" target="_blank" rel="noopener noreferrer">My paper with Qi Zheng</a> won the Best Student Paper Award of the East Asia Special Interest Group of Comparative and International Education Society.
-        </td>
-    </tr>
-    
-      <tr>
-        <td>10/31/2024</td>
-        <td>
-            <a href="https://arxiv.org/abs/2306.16591" target="_blank" rel="noopener noreferrer">Nonparametric Causal Decomposition of Group Disparities</a> has been accepted at Annals of Applied Statistics!
-        </td>
-    </tr>
-
-      <tr>
-        <td>10/24/2024</td>
-        <td>
-            At the International Biometric Conference in December, I will present <a href="https://arxiv.org/abs/2407.02671" target="_blank" rel="noopener noreferrer">Detecting and Understanding the Difference between Natural Mediation Effects and Their Randomized Interventional Analogues</a>. 
-
+            <a href="https://journals.sagepub.com/doi/10.1177/00811750251340392" target="_blank" rel="noopener noreferrer">Counterfactual Slopes and Their Applications in Social Stratification </a> has been accepted at Sociological Methodology!
         </td>
     </tr>
 
