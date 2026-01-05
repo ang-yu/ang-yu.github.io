@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assitant Professor in the Division of Social Science at the Hong Kong University of Science and Technology. 
+I am an Assistant Professor in the Division of Social Science at the Hong Kong University of Science and Technology.
 
-I work on social science methodology, particularly at the intersection between causal inference and machine learning. 
+I work on social science methodology, particularly at the intersection of causal inference and machine learning.
 
-My workflow often involves two steps. First, I translate substantive questions into formal estimands. Second, I develop statistical estimators with good properties for the estimands.
+My workflow often involves two steps. First, I translate substantive questions into formal estimands. Second, I develop statistical estimators with good properties for these estimands.
 
 You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 <!-- And [here](https://ang-yu.github.io/files/AngYu_Resume.pdf)'s my industry resume -->
@@ -37,7 +37,7 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
     <tr>
         <td>12/22/2025</td>
         <td>
-            I joined the Hong Kong University of Science and Technology as an Assitant Professor.
+            I joined the Hong Kong University of Science and Technology as an Assistant Professor.
         </td>
     </tr>
 
