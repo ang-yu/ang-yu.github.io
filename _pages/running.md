@@ -24,6 +24,3 @@ I started running in summer 2022 and have reaped tremendous physical and psychol
 <p align="center">
 <img src="/images/best_one.jpg" width="350"/>
 </p>
-<p align="center">
-<img src="/images/DSC_7812.jpg" width="350"/>
-</p>
