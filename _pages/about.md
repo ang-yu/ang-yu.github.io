@@ -35,6 +35,13 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
 <table class="no-border-table">
 
     <tr>
+        <td>04/13/2026</td>
+        <td>
+            I gave a talk to the Biostatistics Unit at University of Cambridge. 
+        </td>
+    </tr>
+
+    <tr>
         <td>12/22/2025</td>
         <td>
             I joined the Hong Kong University of Science and Technology as an Assistant Professor.
