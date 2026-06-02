@@ -35,6 +35,20 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
 <table class="no-border-table">
 
     <tr>
+        <td>06/05/2026</td>
+        <td>
+            I presented "Explanation on Odds Ratio Scale: Nonparametric Estimands and Estimators" at the Sociological Science Conference at Stanford University.
+        </td>
+    </tr>
+
+    <tr>
+        <td>06/01/2026</td>
+        <td>
+            My paper with Felix Elwert, [Nonparametric Causal Decomposition of Group Disparities]([https://ang-yu.github.io/files/AngYu_Resume.pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-1/Nonparametric-causal-decomposition-of-group-disparities/10.1214/24-AOAS1990.full)), received the Outstanding Publication Award from the Methodology Section of the American Sociological Association
+        </td>
+    </tr>
+    
+    <tr>
         <td>04/13/2026</td>
         <td>
             I gave a talk to the Biostatistics Unit at University of Cambridge. 
@@ -55,34 +69,6 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
         </td>
     </tr>
 
-    <tr>
-        <td>7/28/2025</td>
-        <td>
-            I have been elected as the student representative on the council of the Methodology Section of the American Sociological Association.
-        </td>
-    </tr>
-
-    <tr>
-        <td>5/12/2025</td>
-        <td>
-            I joined Meta as a research scientist on the Demography and Survey Science team.
-        </td>
-    </tr>
-
-
-    <tr>
-        <td>5/1/2025</td>
-        <td>
-            I defended <a href="https://www.proquest.com/openview/f03a01e6cf8f63baa1b4b596eb77f5a2/1?pq-origsite=gscholar&cbl=18750&diss=y" target="_blank" rel="noopener noreferrer">my dissertation</a>! Huge thank you to my advisor, Felix Elwert!  
-        </td>
-    </tr>
-
-    <tr>
-        <td>1/30/2025</td>
-        <td>
-            <a href="https://journals.sagepub.com/doi/10.1177/00811750251340392" target="_blank" rel="noopener noreferrer">Counterfactual Slopes and Their Applications in Social Stratification </a> has been accepted at Sociological Methodology!
-        </td>
-    </tr>
 
 </table>
 
