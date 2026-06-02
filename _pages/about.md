@@ -37,7 +37,7 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
     <tr>
         <td>06/05/2026</td>
         <td>
-            I presented "Explanation on Odds Ratio Scale: Nonparametric Estimands and Estimators" at the Sociological Science Conference at Stanford University.
+            I presented "Explaining with Odds Ratios: Nonparametric Estimands and Estimators" at the Sociological Science Conference at Stanford University.
         </td>
     </tr>
 
