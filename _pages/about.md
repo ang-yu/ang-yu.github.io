@@ -44,7 +44,7 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
     <tr>
         <td>06/01/2026</td>
         <td>
-            My paper with Felix Elwert, <a href="https://ang-yu.github.io/files/AngYu_Resume.pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-1/Nonparametric-causal-decomposition-of-group-disparities/10.1214/24-AOAS1990.full">Nonparametric Causal Decomposition of Group Disparities</a>, received the Outstanding Publication Award from the Methodology Section of the American Sociological Association
+            My paper with Felix Elwert, <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-1/Nonparametric-causal-decomposition-of-group-disparities/10.1214/24-AOAS1990.full">Nonparametric Causal Decomposition of Group Disparities</a>, received the Outstanding Publication Award from the Methodology Section of the American Sociological Association
         </td>
     </tr>
     
