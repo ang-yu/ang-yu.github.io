@@ -96,6 +96,14 @@ a {
   }
 }
 
+body:not(.layout-running) {
+  .page {
+    @include breakpoint($large) {
+      width: 82.5423728813%;
+    }
+  }
+}
+
 .page__title {
   margin-bottom: 0.75em;
   color: #333;
@@ -213,6 +221,10 @@ a {
 .sidebar {
   @include breakpoint($large) {
     @include span(2 of 12);
+
+    body:not(.layout-running) & {
+      margin-right: 2.2033898305%;
+    }
   }
 
   p,
