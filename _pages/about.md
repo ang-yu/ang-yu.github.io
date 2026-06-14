@@ -23,13 +23,16 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
         border-collapse: collapse;
         width: 100%;
         border: none;
-        font-size: 1em;
+        font-size: inherit;
+        line-height: 1.6;
     }
     .no-border-table td {
         border: none;
         word-wrap: break-word;
         padding: 5px; /* Adjust the padding as needed */
         vertical-align: top; /* Align text to the top */
+        font-size: inherit;
+        line-height: inherit;
     }
 </style>
 <table class="no-border-table">
