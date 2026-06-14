@@ -1,0 +1,224 @@
+/* ==========================================================================
+   Site refresh inspired by ruochenzhao.github.io
+   ========================================================================== */
+
+$soft-rose: #f7f2f1;
+$rose: #e5989b;
+$mauve: #b5838d;
+$plum: #6d6875;
+$ink: #494e52;
+$paper: #fffdfc;
+
+body {
+  color: $ink;
+  background: $paper;
+}
+
+a {
+  color: #357e98;
+
+  &:hover {
+    color: $mauve;
+  }
+}
+
+.masthead {
+  background-color: $soft-rose;
+  border-bottom: 1px solid $rose;
+}
+
+.masthead__inner-wrap {
+  padding-top: 0.9em;
+  padding-bottom: 0.9em;
+}
+
+.masthead__menu-item {
+  &--lg {
+    padding-right: 0;
+    font-weight: 700;
+
+    @include breakpoint($large) {
+      min-width: 220px;
+    }
+
+    a {
+      color: $plum;
+    }
+  }
+
+  &:not(.masthead__menu-item--lg) {
+    margin-right: 0.5em;
+
+    a {
+      display: inline-block;
+      padding: 0.25em 0.1em;
+      color: $plum;
+      font-size: 0.95em;
+      font-weight: 600;
+      background: transparent;
+      border-bottom: 2px solid $mauve;
+
+      &:hover {
+        color: $mauve;
+        border-bottom-color: $plum;
+      }
+    }
+  }
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    margin-right: 1rem;
+    margin-left: 0;
+  }
+
+  button {
+    background-color: $plum;
+  }
+}
+
+#main {
+  margin-top: 2.25em;
+}
+
+.page {
+  @include breakpoint($large) {
+    @include span(9 of 12 last);
+    @include prefix(0.25 of 12);
+    @include suffix(1.5 of 12);
+  }
+}
+
+.page__title {
+  margin-bottom: 0.75em;
+  color: #333;
+  font-size: $type-size-3;
+  line-height: 1.15;
+}
+
+.page__content {
+  color: $ink;
+
+  h2 {
+    margin-top: 1.6em;
+    padding-bottom: 0.35em;
+    color: #333;
+    border-bottom: 1px solid $border-color;
+  }
+
+  h3 {
+    color: #333;
+  }
+
+  p,
+  li,
+  dl {
+    line-height: 1.6;
+  }
+
+  a {
+    color: #357e98;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.12em;
+
+    &:hover {
+      color: $mauve;
+    }
+  }
+
+  hr {
+    margin: 0.75em 0 1.25em;
+  }
+}
+
+.sidebar {
+  @include breakpoint($large) {
+    @include span(2.5 of 12);
+  }
+
+  p,
+  li {
+    color: $ink;
+  }
+}
+
+.author__avatar {
+  width: 44px;
+
+  @include breakpoint($large) {
+    width: auto;
+  }
+
+  img {
+    max-width: 175px;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+  }
+}
+
+.author__content {
+  line-height: 1.15;
+}
+
+.author__name {
+  color: #333;
+}
+
+.sidebar .author__name {
+  font-size: $type-size-5;
+}
+
+.author__bio {
+  color: $plum;
+}
+
+.author__urls {
+  a {
+    color: $ink;
+
+    &:hover {
+      color: $mauve;
+    }
+  }
+
+  li {
+    margin-bottom: 0.25em;
+  }
+}
+
+.archive {
+  @include breakpoint($large) {
+    @include span(9 of 12 last);
+    @include prefix(0.25 of 12);
+  }
+}
+
+.archive__subtitle {
+  color: $plum;
+}
+
+.archive__item-title {
+  a {
+    color: #333;
+
+    &:hover {
+      color: $mauve;
+    }
+  }
+}
+
+.notice,
+.notice--primary,
+.notice--info,
+.notice--warning,
+.notice--success,
+.notice--danger {
+  box-shadow: 0 2px 8px rgba($mauve, 0.12);
+}
+
+.page__footer {
+  border-top-color: $rose;
+}
