@@ -23,7 +23,7 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
         border-collapse: collapse;
         width: 100%;
         border: none;
-        font-size: 17px; /* Adjust the font size as needed */
+        font-size: 1em;
     }
     .no-border-table td {
         border: none;
@@ -71,4 +71,3 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
 
 
 </table>
-
