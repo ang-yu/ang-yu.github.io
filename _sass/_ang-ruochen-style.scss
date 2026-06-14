@@ -43,6 +43,7 @@ a {
 
     a {
       color: $plum;
+      font-size: 1.08em;
     }
   }
 
@@ -134,6 +135,72 @@ a {
 
   hr {
     margin: 0.75em 0 1.25em;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    margin: 1.6em 0 2em;
+    width: 100%;
+    border: 0;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 1em;
+    line-height: 1.45;
+    background: #fff;
+  }
+
+  thead {
+    background: $soft-rose;
+    border: 0;
+  }
+
+  th,
+  td {
+    padding: 0.7em 0.85em;
+    border: 0;
+    border-bottom: 1px solid #eee3e2;
+    border-right: 0;
+    vertical-align: top;
+  }
+
+  th {
+    color: $plum;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+
+  tbody tr:nth-child(even) {
+    background: #fdf8f7;
+  }
+
+  tbody tr:hover {
+    background: #f9eeee;
+  }
+
+  td:nth-child(5),
+  td:nth-child(6),
+  td:nth-child(7) {
+    white-space: nowrap;
+  }
+
+  table.running-results {
+    font-size: inherit;
+
+    @include breakpoint($large) {
+      width: min(980px, calc(100vw - 2em));
+      max-width: calc(100vw - 2em);
+    }
+
+    @include breakpoint($x-large) {
+      margin-left: -70px;
+      width: 1050px;
+    }
+
+    th,
+    td {
+      white-space: nowrap;
+    }
   }
 }
 
