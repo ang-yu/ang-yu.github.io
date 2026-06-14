@@ -26,6 +26,7 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
 | Mountain View, CA | Movement - Mountain View | No | 2025 |
 | New York, NY | Central Rock Gym - Chelsea | No | 2025 |
 | New York, NY | Central Rock Gym - Manhattan | No | 2025 |
+| Oakland, CA | Touch Stone - Pacific Pipe | No | 2025 |
 | Oxford, UK | Gallery Bouldering | No | 2026 |
 | Redwood City, CA | Touch Stone - Hyperion | Yes | 2025 |
 | San Francisco, CA | Touch Stone - Dogpatch | No | 2025 |
