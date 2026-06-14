@@ -262,8 +262,11 @@ a {
 
 .archive {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    float: left;
+    width: min(760px, calc(100% - 220px));
     max-width: 760px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
