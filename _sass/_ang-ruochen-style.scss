@@ -85,9 +85,13 @@ a {
 
 .page {
   @include breakpoint($large) {
-    @include span(9 of 12 last);
-    @include prefix(0.25 of 12);
-    @include suffix(1.5 of 12);
+    @include span(10 of 12 last);
+  }
+
+  .page__inner-wrap {
+    @include breakpoint($large) {
+      max-width: 680px;
+    }
   }
 }
 
@@ -135,7 +139,7 @@ a {
 
 .sidebar {
   @include breakpoint($large) {
-    @include span(2.5 of 12);
+    @include span(2 of 12);
   }
 
   p,
@@ -191,8 +195,8 @@ a {
 
 .archive {
   @include breakpoint($large) {
-    @include span(9 of 12 last);
-    @include prefix(0.25 of 12);
+    @include span(10 of 12 last);
+    max-width: 760px;
   }
 }
 
