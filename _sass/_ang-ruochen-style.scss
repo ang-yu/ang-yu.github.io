@@ -200,6 +200,14 @@ a {
       white-space: nowrap;
     }
   }
+
+  table.climbing-locations {
+    th,
+    td {
+      padding-top: 0.4em;
+      padding-bottom: 0.4em;
+    }
+  }
 }
 
 .sidebar {
