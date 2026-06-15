@@ -2,10 +2,10 @@
    Site refresh inspired by ruochenzhao.github.io
    ========================================================================== */
 
-$soft-rose: #f7f2f1;
-$rose: #e5989b;
-$mauve: #b5838d;
-$plum: #6d6875;
+$soft-blue: #f1f7fa;
+$blue: #9fc7d6;
+$steel: #6f9faf;
+$deep-blue: #4f6572;
 $ink: #494e52;
 $paper: #fffdfc;
 
@@ -18,13 +18,13 @@ a {
   color: #357e98;
 
   &:hover {
-    color: $mauve;
+    color: $steel;
   }
 }
 
 .masthead {
-  background-color: $soft-rose;
-  border-bottom: 1px solid $rose;
+  background-color: $soft-blue;
+  border-bottom: 1px solid $blue;
 }
 
 .masthead__inner-wrap {
@@ -42,7 +42,7 @@ a {
     }
 
     a {
-      color: $plum;
+      color: $deep-blue;
       font-size: 1.08em;
     }
   }
@@ -53,15 +53,15 @@ a {
     a {
       display: inline-block;
       padding: 0.25em 0.1em;
-      color: $plum;
+      color: $deep-blue;
       font-size: 0.95em;
       font-weight: 600;
       background: transparent;
-      border-bottom: 2px solid $mauve;
+      border-bottom: 2px solid $steel;
 
       &:hover {
-        color: $mauve;
-        border-bottom-color: $plum;
+        color: $steel;
+        border-bottom-color: $deep-blue;
       }
     }
   }
@@ -76,7 +76,7 @@ a {
   }
 
   button {
-    background-color: $plum;
+    background-color: $deep-blue;
   }
 }
 
@@ -137,7 +137,7 @@ body:not(.layout-running) {
     text-underline-offset: 0.12em;
 
     &:hover {
-      color: $mauve;
+      color: $steel;
     }
   }
 
@@ -159,7 +159,7 @@ body:not(.layout-running) {
   }
 
   thead {
-    background: $soft-rose;
+    background: $soft-blue;
     border: 0;
   }
 
@@ -167,23 +167,23 @@ body:not(.layout-running) {
   td {
     padding: 0.7em 0.85em;
     border: 0;
-    border-bottom: 1px solid #eee3e2;
+    border-bottom: 1px solid #e2edf2;
     border-right: 0;
     vertical-align: top;
   }
 
   th {
-    color: $plum;
+    color: $deep-blue;
     font-weight: 700;
     text-transform: capitalize;
   }
 
   tbody tr:nth-child(even) {
-    background: #fdf8f7;
+    background: #f8fbfd;
   }
 
   tbody tr:hover {
-    background: #f9eeee;
+    background: #eef7fb;
   }
 
   td:nth-child(5),
@@ -261,7 +261,7 @@ body:not(.layout-running) {
 }
 
 .author__bio {
-  color: $plum;
+  color: $deep-blue;
 }
 
 .author__urls {
@@ -269,7 +269,7 @@ body:not(.layout-running) {
     color: $ink;
 
     &:hover {
-      color: $mauve;
+      color: $steel;
     }
   }
 
@@ -289,7 +289,7 @@ body:not(.layout-running) {
 }
 
 .archive__subtitle {
-  color: $plum;
+  color: $deep-blue;
 }
 
 .archive__item-title {
@@ -297,7 +297,7 @@ body:not(.layout-running) {
     color: #333;
 
     &:hover {
-      color: $mauve;
+      color: $steel;
     }
   }
 }
@@ -308,9 +308,9 @@ body:not(.layout-running) {
 .notice--warning,
 .notice--success,
 .notice--danger {
-  box-shadow: 0 2px 8px rgba($mauve, 0.12);
+  box-shadow: 0 2px 8px rgba($steel, 0.12);
 }
 
 .page__footer {
-  border-top-color: $rose;
+  border-top-color: $blue;
 }
