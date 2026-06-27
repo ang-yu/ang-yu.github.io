@@ -32,6 +32,7 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
 | San Francisco, CA | Touch Stone - Dogpatch | No | 2025 |
 | San Jose, CA | Touch Stone - The Studio | No | 2025 |
 | Shenzhen, CN | Banana Climbing - Link Central City | No | 2026 |
+| Shenzhen, CN | Banana Climbing - OCT Park | No | 2026 |
 | Taiyuan, CN | Keyi | No | 2025 |
 | Taiyuan, CN | Xintu | No | 2025 |
 {: .climbing-locations }
