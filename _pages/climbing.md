@@ -19,6 +19,7 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
 | Hong Kong | Just Climb - Shek Mun | No | 2026 |
 | Hong Kong | Just Climb - Tai Koo | No | 2026 |
 | Hong Kong | Just Climb - Tsuen Wan | No | 2026 |
+| Hong Kong | Project Climb and Boulder | Yes | 2026 |
 | London, UK | London Climbing Centres - EustonWall | No | 2025 |
 | Los Angeles, CA | Touch Stone - Hollywood Boulders | No | 2025 |
 | Madison, WI | Boulders Climbing Gym - Downtown | Yes | 2024 |
