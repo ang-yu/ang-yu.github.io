@@ -38,6 +38,13 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
 <table class="no-border-table">
 
     <tr>
+        <td>07/01/2026</td>
+        <td>
+            I joined the Editorial Board of Sociological Methods and Research. 
+        </td>
+    </tr>
+
+    <tr>
         <td>06/05/2026</td>
         <td>
             I presented "Explaining with Odds Ratios: Nonparametric Estimands and Estimators" at the Sociological Science Conference at Stanford University.
