@@ -20,19 +20,19 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
   </thead>
   <tbody>
     <tr>
-      <td>Bangkok, TH</td>
+      <td>Bangkok</td>
       <td>Balance Prime</td>
       <td>No</td>
       <td>2026</td>
     </tr>
     <tr>
-      <td>Boston, MA</td>
+      <td>Boston</td>
       <td>Central Rock Gym - Harvard Square</td>
       <td>No</td>
       <td>2025</td>
     </tr>
     <tr>
-      <td>Glasgow, UK</td>
+      <td>Glasgow</td>
       <td>The Climbing Academy - The Prop Store</td>
       <td>No</td>
       <td>2025</td>
@@ -69,19 +69,19 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
       <td>2026</td>
     </tr>
     <tr>
-      <td>London, UK</td>
+      <td>London</td>
       <td>London Climbing Centres - EustonWall</td>
       <td>No</td>
       <td>2025</td>
     </tr>
     <tr>
-      <td>Los Angeles, CA</td>
+      <td>Los Angeles</td>
       <td>Touch Stone - Hollywood Boulders</td>
       <td>No</td>
       <td>2025</td>
     </tr>
     <tr>
-      <td rowspan="2">Madison, WI</td>
+      <td rowspan="2">Madison</td>
       <td>Boulders Climbing Gym - Downtown</td>
       <td>Yes</td>
       <td>2024</td>
@@ -92,13 +92,13 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
       <td>2025</td>
     </tr>
     <tr>
-      <td>Mountain View, CA</td>
+      <td>Mountain View</td>
       <td>Movement - Mountain View</td>
       <td>No</td>
       <td>2025</td>
     </tr>
     <tr>
-      <td rowspan="2">New York, NY</td>
+      <td rowspan="2">New York</td>
       <td>Central Rock Gym - Chelsea</td>
       <td>No</td>
       <td>2025</td>
@@ -109,37 +109,37 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
       <td>2025</td>
     </tr>
     <tr>
-      <td>Oakland, CA</td>
+      <td>Oakland</td>
       <td>Touch Stone - Pacific Pipe</td>
       <td>No</td>
       <td>2025</td>
     </tr>
     <tr>
-      <td>Oxford, UK</td>
+      <td>Oxford</td>
       <td>Gallery Bouldering</td>
       <td>No</td>
       <td>2026</td>
     </tr>
     <tr>
-      <td>Redwood City, CA</td>
+      <td>Redwood City</td>
       <td>Touch Stone - Hyperion</td>
       <td>Yes</td>
       <td>2025</td>
     </tr>
     <tr>
-      <td>San Francisco, CA</td>
+      <td>San Francisco</td>
       <td>Touch Stone - Dogpatch</td>
       <td>No</td>
       <td>2025</td>
     </tr>
     <tr>
-      <td>San Jose, CA</td>
+      <td>San Jose</td>
       <td>Touch Stone - The Studio</td>
       <td>No</td>
       <td>2025</td>
     </tr>
     <tr>
-      <td rowspan="3">Shenzhen, CN</td>
+      <td rowspan="3">Shenzhen</td>
       <td>Banana Climbing - INJOY</td>
       <td>No</td>
       <td>2026</td>
@@ -155,7 +155,7 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
       <td>2026</td>
     </tr>
     <tr>
-      <td rowspan="2">Taiyuan, CN</td>
+      <td rowspan="2">Taiyuan</td>
       <td>Keyi</td>
       <td>No</td>
       <td>2025</td>
