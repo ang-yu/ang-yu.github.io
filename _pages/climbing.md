@@ -9,32 +9,161 @@ redirect_from:
 
 As a complement to running, I have also been doing indoor bouldering. I'm keeping a list of the gyms I've been to.
 
-| Place | Gym | Home gym | First visit |
-| --- | --- | --- | --- |
-| Bangkok, TH | Balance Prime | No | 2026 |
-| Boston, MA | Central Rock Gym - Harvard Square | No | 2025 |
-| Glasgow, UK | The Climbing Academy - The Prop Store | No | 2025 |
-| Hong Kong | Just Climb - Tseung Kwan O | Yes | 2026 |
-| Hong Kong | Just Climb - San Po Kong | No | 2026 |
-| Hong Kong | Just Climb - Shek Mun | No | 2026 |
-| Hong Kong | Just Climb - Tai Koo | No | 2026 |
-| Hong Kong | Just Climb - Tsuen Wan | No | 2026 |
-| Hong Kong | Project Climb and Boulder | Yes | 2026 |
-| London, UK | London Climbing Centres - EustonWall | No | 2025 |
-| Los Angeles, CA | Touch Stone - Hollywood Boulders | No | 2025 |
-| Madison, WI | Boulders Climbing Gym - Downtown | Yes | 2024 |
-| Madison, WI | Bakke | No | 2025 |
-| Mountain View, CA | Movement - Mountain View | No | 2025 |
-| New York, NY | Central Rock Gym - Chelsea | No | 2025 |
-| New York, NY | Central Rock Gym - Manhattan | No | 2025 |
-| Oakland, CA | Touch Stone - Pacific Pipe | No | 2025 |
-| Oxford, UK | Gallery Bouldering | No | 2026 |
-| Redwood City, CA | Touch Stone - Hyperion | Yes | 2025 |
-| San Francisco, CA | Touch Stone - Dogpatch | No | 2025 |
-| San Jose, CA | Touch Stone - The Studio | No | 2025 |
-| Shenzhen, CN | Banana Climbing - INJOY | No | 2026 |
-| Shenzhen, CN | Banana Climbing - Link Central City | No | 2026 |
-| Shenzhen, CN | Banana Climbing - OCT Park | No | 2026 |
-| Taiyuan, CN | Keyi | No | 2025 |
-| Taiyuan, CN | Xintu | No | 2025 |
-{: .climbing-locations }
+<table class="climbing-locations">
+  <thead>
+    <tr>
+      <th scope="col">Place</th>
+      <th scope="col">Gym</th>
+      <th scope="col">Home gym</th>
+      <th scope="col">First visit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bangkok, TH</td>
+      <td>Balance Prime</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>Boston, MA</td>
+      <td>Central Rock Gym - Harvard Square</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>Glasgow, UK</td>
+      <td>The Climbing Academy - The Prop Store</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td rowspan="6">Hong Kong</td>
+      <td>Just Climb - Tseung Kwan O</td>
+      <td>Yes</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>Just Climb - San Po Kong</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>Just Climb - Shek Mun</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>Just Climb - Tai Koo</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>Just Climb - Tsuen Wan</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>Project Climb and Boulder</td>
+      <td>Yes</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>London, UK</td>
+      <td>London Climbing Centres - EustonWall</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>Los Angeles, CA</td>
+      <td>Touch Stone - Hollywood Boulders</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Madison, WI</td>
+      <td>Boulders Climbing Gym - Downtown</td>
+      <td>Yes</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>Bakke</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>Mountain View, CA</td>
+      <td>Movement - Mountain View</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td rowspan="2">New York, NY</td>
+      <td>Central Rock Gym - Chelsea</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>Central Rock Gym - Manhattan</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>Oakland, CA</td>
+      <td>Touch Stone - Pacific Pipe</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>Oxford, UK</td>
+      <td>Gallery Bouldering</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>Redwood City, CA</td>
+      <td>Touch Stone - Hyperion</td>
+      <td>Yes</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>San Francisco, CA</td>
+      <td>Touch Stone - Dogpatch</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>San Jose, CA</td>
+      <td>Touch Stone - The Studio</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Shenzhen, CN</td>
+      <td>Banana Climbing - INJOY</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>Banana Climbing - Link Central City</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td>Banana Climbing - OCT Park</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Taiyuan, CN</td>
+      <td>Keyi</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>Xintu</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+  </tbody>
+</table>
