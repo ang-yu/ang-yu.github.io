@@ -165,5 +165,11 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
       <td>No</td>
       <td>2025</td>
     </tr>
+    <tr>
+      <td>Vancouver</td>
+      <td>Progression Bouldering Gym</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
   </tbody>
 </table>
