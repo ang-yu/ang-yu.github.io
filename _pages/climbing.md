@@ -92,12 +92,6 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
       <td>2025</td>
     </tr>
     <tr>
-      <td>Mountain View</td>
-      <td>Movement - Mountain View</td>
-      <td>No</td>
-      <td>2025</td>
-    </tr>
-    <tr>
       <td rowspan="2">New York</td>
       <td>Central Rock Gym - Chelsea</td>
       <td>No</td>
@@ -109,31 +103,33 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
       <td>2025</td>
     </tr>
     <tr>
-      <td>Oakland</td>
-      <td>Touch Stone - Pacific Pipe</td>
-      <td>No</td>
-      <td>2025</td>
-    </tr>
-    <tr>
       <td>Oxford</td>
       <td>Gallery Bouldering</td>
       <td>No</td>
       <td>2026</td>
     </tr>
     <tr>
-      <td>Redwood City</td>
+      <td rowspan="5">San Francisco Bay Area</td>
+      <td>Movement - Mountain View</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>Touch Stone - Pacific Pipe</td>
+      <td>No</td>
+      <td>2025</td>
+    </tr>
+    <tr>
       <td>Touch Stone - Hyperion</td>
       <td>Yes</td>
       <td>2025</td>
     </tr>
     <tr>
-      <td>San Francisco</td>
       <td>Touch Stone - Dogpatch</td>
       <td>No</td>
       <td>2025</td>
     </tr>
     <tr>
-      <td>San Jose</td>
       <td>Touch Stone - The Studio</td>
       <td>No</td>
       <td>2025</td>
