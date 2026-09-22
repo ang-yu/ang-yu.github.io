@@ -38,6 +38,12 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
       <td>2025</td>
     </tr>
     <tr>
+      <td>Hanoi</td>
+      <td>Beefy Boulders Climbing Gym</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
+    <tr>
       <td rowspan="6">Hong Kong</td>
       <td>Just Climb - Tseung Kwan O</td>
       <td>Yes</td>
