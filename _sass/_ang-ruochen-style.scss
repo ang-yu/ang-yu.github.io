@@ -92,6 +92,10 @@ a {
   .page__inner-wrap {
     @include breakpoint($large) {
       max-width: 680px;
+
+      &.page__inner-wrap--post {
+        max-width: 750px;
+      }
     }
   }
 }
