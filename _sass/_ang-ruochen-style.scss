@@ -216,6 +216,16 @@ body:not(.layout-running) {
       vertical-align: middle;
     }
   }
+
+  table.compact-table {
+    font-size: 0.9em;
+    line-height: 1.3;
+
+    th,
+    td {
+      padding: 0.25em 0.6em;
+    }
+  }
 }
 
 .sidebar {
