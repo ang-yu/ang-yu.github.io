@@ -141,6 +141,12 @@ As a complement to running, I have also been doing indoor bouldering. I'm keepin
       <td>2025</td>
     </tr>
     <tr>
+      <td>Shanghai</td>
+      <td>Banana Climbing - PRSCO</td>
+      <td>No</td>
+      <td>2026</td>
+    </tr>
+    <tr>
       <td rowspan="3">Shenzhen</td>
       <td>Banana Climbing - INJOY</td>
       <td>No</td>

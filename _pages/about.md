@@ -38,6 +38,13 @@ You can find my CV <a href="https://ang-yu.github.io/files/AngYuCV.pdf" target="
 <table class="no-border-table">
 
     <tr>
+        <td>10/23/2026</td>
+        <td>
+            I presented "Decomposing Odds Ratios: Nonparametric estimands and estimators" at the Center for Applied Social and Economic Research of NYU Shanghai.
+        </td>
+    </tr>
+
+    <tr>
         <td>08/11/2026</td>
         <td>
             I presented "Decomposing Odds Ratios: Nonparametric estimands and estimators" at the RC28 Summer Meeting and the Annual Meeting of the American Sociological Association.
